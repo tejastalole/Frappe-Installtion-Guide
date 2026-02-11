@@ -163,6 +163,7 @@ bench get-app hrms
 
 ```bash
 bench --site site1.local install-app erpnext
+bench --site site1.local install-app payments
 bench --site site1.local install-app hrms
 ```
 
